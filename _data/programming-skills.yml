@@ -1,0 +1,23 @@
+- name: Python
+  percentage: 8
+  color: info
+
+- name: Pytorch
+  percentage: 8
+  color: info
+
+- name: Keras / TensorFlow
+  percentage: 7
+  color: info
+
+- name: High Performance Computing / SLURM
+  percentage: 7
+  color: info
+
+- name: Cloud ML
+  percentage: 7
+  color: info
+
+- name: Matlab
+  percentage: 3
+  color: info

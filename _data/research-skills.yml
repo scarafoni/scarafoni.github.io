@@ -1,0 +1,27 @@
+- name: Machine Learning / AI
+  percentage: 8
+  color: info
+
+- name: Statistics
+  percentage: 8
+  color: info
+
+- name: Data Science
+  percentage: 8
+  color: info
+
+- name: Computer Vision
+  percentage: 7
+  color: info
+
+- name: Data Visualization
+  percentage: 8
+  color: info
+
+- name: Data Visualization
+  percentage: 8
+  color: info
+
+- name: Robotics
+  percentage: 5
+  color: info
