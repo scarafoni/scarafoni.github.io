@@ -1,8 +1,12 @@
 ### Site Settings ###
 title               : Dan Scarafoni- Machine Learning Researcher and Data Scientist
 description         : >-
-                      AI is the future, and I have spent my entire career doing AI, 
-                      machine learning, and computer vision professionally. 
+                      AI is to the 21st century what Electricity was to the 20th, 
+                      and I have been doing AI for my entire career (nearly a decade!). 
+                      With years of experience doing bleeding edge research, 
+                      multiple first-author publications, and multiple patents in 
+                      computer vision, machine learning, NLP, and data science at MIT 
+                      and Georgia Tech, I'm confident that I can solve your ML problems.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : scarafoni/scarafoni.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : chrisrhymes/bulma-clean-theme
