@@ -54,7 +54,8 @@ author:
 
 
 ### Posts ###
-#permalink: /blog/:title
+# permalink: /blog/:title
+# permalink: /pages/Resume_Dan_Scarafoni.pdf
 
 
 ### Collections ###
